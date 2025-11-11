@@ -1,0 +1,18 @@
+[
+    {
+        "username": "example_user1",
+        "followers_count": 12000,
+        "following_count": 350,
+        "profile_url": "https://www.instagram.com/example_user1/",
+        "bio": "This is an example bio",
+        "posts_count": 450
+    },
+    {
+        "username": "example_user2",
+        "followers_count": 15000,
+        "following_count": 400,
+        "profile_url": "https://www.instagram.com/example_user2/",
+        "bio": "This is another bio",
+        "posts_count": 500
+    }
+]
